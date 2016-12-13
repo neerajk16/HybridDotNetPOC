@@ -1,0 +1,6 @@
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\bin\HybridPOC.Services.dll.config
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\bin\HybridPOC.Services.dll
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\bin\HybridPOC.Services.pdb
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\obj\Debug\HybridPOC.Services.csprojResolveAssemblyReference.cache
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\obj\Debug\HybridPOC.Services.dll
+C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.Services\obj\Debug\HybridPOC.Services.pdb

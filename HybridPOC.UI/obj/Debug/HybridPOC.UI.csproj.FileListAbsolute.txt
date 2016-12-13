@@ -23,6 +23,5 @@ C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\bin\Newtonso
 C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\bin\System.Net.Http.Formatting.xml
 C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\bin\System.Web.Http.xml
 C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\bin\System.Web.Http.WebHost.xml
-C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\obj\Debug\HybridPOC.UI.csprojResolveAssemblyReference.cache
 C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\obj\Debug\HybridPOC.UI.dll
 C:\Users\nk2345\Documents\Neeraj Stuff\HybridDotNetPOC\HybridPOC.UI\obj\Debug\HybridPOC.UI.pdb
